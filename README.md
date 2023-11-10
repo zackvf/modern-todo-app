@@ -1,7 +1,3 @@
-# modern-todo-app
-
-This is a modern todo list app, built and tested with Vite, that leverages React's efficient State control and is styled with JSX and a bit of CSS
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
