@@ -18,7 +18,7 @@ This is a modern todo list app, built and tested with Vite, that leverages React
 
 ![](./placeholder.jpg)
 
-## Deleting specific tasks
+## Deleting a specific task
 
 ![](./placeholder.jpg)
 
